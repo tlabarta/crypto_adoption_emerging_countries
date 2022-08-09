@@ -1,2 +1,12 @@
-# crypto_adoption_emerging_countries
+# Crypto Adoption for Financial Inclusion in Emerging Economies
  
+What factors affect blockchain technology adoption as a tool for financial inclusion in emerging economies 
+
+Prior Studies: 
+- correlation between financial inclusion and human development 
+- do national development factors affect crypto currency adoption
+- blockchain technology adoption and human development 
+ect. 
+
+Analysis: 
+Five countries with the highest crypto adoption: Vietnam, India, Pakistan, Ukraine and Kenya 
