@@ -13,5 +13,5 @@ Five countries with the highest crypto adoption: Vietnam, India, Pakistan, Ukrai
 
 
 File Structure in this repository:
--input: Folder containing all data sources used for the analysis.
--data.ipynb: Jupyter Notebook for initial data engineering activities.
+- input: Folder containing all data sources used for the analysis.
+- data.ipynb: Jupyter Notebook for initial data engineering activities.
