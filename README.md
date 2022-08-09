@@ -10,3 +10,8 @@ ect.
 
 Analysis: 
 Five countries with the highest crypto adoption: Vietnam, India, Pakistan, Ukraine and Kenya 
+
+
+File Structure in this repository:
+-input: Folder containing all data sources used for the analysis.
+-data.ipynb: Jupyter Notebook for initial data engineering activities.
