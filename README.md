@@ -1,4 +1,4 @@
-# Schmieg, K. (2022): Crypto Adoption for Financial Inclusion in Emerging Economies
+# Schmieg, K. (2022): Crypto Adoption as tool for Financial Inclusion in Emerging Economies
  
 What factors affect blockchain technology adoption as a tool for financial inclusion in emerging economies 
 
